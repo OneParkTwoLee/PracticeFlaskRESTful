@@ -1,1 +1,1 @@
-# Flask RESRful API 연습하기
+# Flask RESTful API 연습하기
