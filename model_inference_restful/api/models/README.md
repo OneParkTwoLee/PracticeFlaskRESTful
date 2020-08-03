@@ -1,0 +1,1 @@
+The directory where the model(downloaded from the URL) will be located.
