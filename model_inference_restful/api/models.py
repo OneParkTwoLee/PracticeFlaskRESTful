@@ -1,4 +1,4 @@
-class ImageModel:
+class PictureModel:
     def __init__(self, size, reasoning_time, predicted_label):
         # We will automatically genera
         self.id = 0
