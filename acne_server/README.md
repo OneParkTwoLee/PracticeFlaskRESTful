@@ -33,15 +33,18 @@ acne_server
     {
     	"predicted_label": "1,2,5"
     }
-  ```
-    
+    ```
   - The types of acne for each number are:
 
-    - `"1"`: whitehead
-    - `"2"`: blackhead
-    - `"3"`: papule
-    - `"4"`: pustule
-    - `"5"`: warning (nodular, cystic)
+    `"1"`: whitehead
+
+    `"2"`: blackhead
+
+    `"3"`: papule
+
+    `"4"`: pustule
+
+    `"5"`: warning (nodular, cystic)
 
   - An example on Android is:
 
