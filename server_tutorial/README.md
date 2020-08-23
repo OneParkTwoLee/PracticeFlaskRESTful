@@ -32,7 +32,7 @@ server_tutorial
   
     ```json
     // example JSON response to POST request
-    // when there are 3 images requested,
+    // when there are 2 images requested,
     {
     	"predicted_label": "tiger, lion"
     }
